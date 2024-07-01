@@ -48,8 +48,21 @@
 ### 生成短篇小说
 
 
+### 💡 致谢
 
-## 联系方式
+
+我们非常感谢以下这些开源项目给予我们的帮助：
+
+- [InternLM](https://github.com/InternLM/InternLM)
+
+- [Xtuner](https://github.com/InternLM/xtuner)
+
+- [Imdeploy](https://github.com/InternLM/lmdeploy)
+
+- [InternlM-Tutorial](https://github.com/InternLM/Tutorial)
+
+  
+最后感谢上海人工智能实验室推出的书生·浦语大模型实战营，为我们的项目提供宝贵的技术指导和强大的算力支持！
 如果你有任何问题或建议，请通过——与我们联系。
 
 感谢你的关注与支持！一起享受创作的乐趣吧！
